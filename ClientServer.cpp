@@ -1,4 +1,4 @@
-#include "ClientServer.h"
+#include "ClientServer.h"          //使用ODSocket的封装好的类需网上自己下载
 bool flag = true;
 
 bool ClientServer::connectServer(const char* ip,int port) {
