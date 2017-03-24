@@ -3,9 +3,7 @@ package JSON;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-import net.sf.json.JSONObject;
-
-
+import net.sf.json.JSONObject;     //需要网上自己下载，六个JAR包
 public class JsonDemo {
 
 	public static void main(String[] args) {
